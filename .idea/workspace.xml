@@ -5,17 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c9d7d79f-dc2c-476e-bd28-e9a4ee254ae7" name="Default Changelist" comment="initialize platform interface and windows packages">
+      <change afterPath="$PROJECT_DIR$/windows_bluetooth/lib/models.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/windows_bluetooth.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/windows_bluetooth.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/windows_bluetooth/.dart_tool/package_config.json" beforeDir="false" afterPath="$PROJECT_DIR$/windows_bluetooth/.dart_tool/package_config.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/windows_bluetooth/.dart_tool/package_config_subset" beforeDir="false" afterPath="$PROJECT_DIR$/windows_bluetooth/.dart_tool/package_config_subset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/windows_bluetooth/.packages" beforeDir="false" afterPath="$PROJECT_DIR$/windows_bluetooth/.packages" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/windows_bluetooth/example/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/windows_bluetooth/example/pubspec.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/windows_bluetooth/example/windows/flutter/generated_plugin_registrant.cc" beforeDir="false" afterPath="$PROJECT_DIR$/windows_bluetooth/example/windows/flutter/generated_plugin_registrant.cc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/windows_bluetooth/example/windows/flutter/generated_plugins.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/windows_bluetooth/example/windows/flutter/generated_plugins.cmake" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/windows_bluetooth/lib/windows_bluetooth.dart" beforeDir="false" afterPath="$PROJECT_DIR$/windows_bluetooth/lib/windows_bluetooth.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/windows_bluetooth/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/windows_bluetooth/pubspec.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/windows_bluetooth/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/windows_bluetooth/pubspec.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/windows_bluetooth/test/windows_bluetooth_test.dart" beforeDir="false" afterPath="$PROJECT_DIR$/windows_bluetooth/test/windows_bluetooth_test.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,9 +61,9 @@
       <recent name="C:\Users\Hamidjon\StudioProjects\windows_bluetooth\windows_bluetooth_windows" />
     </key>
   </component>
-  <component name="RunManager" selected="Flutter.main.dart">
-    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
-      <option name="filePath" value="$PROJECT_DIR$/example/lib/main.dart" />
+  <component name="RunManager" selected="Flutter.example">
+    <configuration name="example" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/windows_bluetooth_example/lib/main.dart" />
       <method v="2" />
     </configuration>
     <configuration name="C:/Users/Hamidjon/StudioProjects/windows_bluetooth" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
@@ -88,6 +85,10 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Flutter.example" />
+      <item itemvalue="Gradle.C:/Users/Hamidjon/StudioProjects/windows_bluetooth" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Gradle.C:/Users/Hamidjon/StudioProjects/windows_bluetooth" />
@@ -110,7 +111,14 @@
       <option name="project" value="LOCAL" />
       <updated>1631885802241</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="initialize platform interface and windows packages">
+      <created>1631887249755</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1631887249755</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

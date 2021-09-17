@@ -14,11 +14,11 @@ dependencies:
   flutter:
     sdk: flutter
 
-  windows_bluetooth_windows: ^1.0.0
+#  windows_bluetooth_windows: ^1.0.0
   windows_bluetooth_platform_interface:
     path: ../windows_bluetooth_platform_interface
-#  windows_bluetooth_windows:
-#    path: ../windows_bluetooth_windows
+  windows_bluetooth_windows:
+    path: ../windows_bluetooth_windows
 
 dev_dependencies:
   flutter_test:

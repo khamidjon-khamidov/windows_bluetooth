@@ -15,6 +15,12 @@
       <excludeFolder url="file://$MODULE_DIR$/windows_bluetooth/example/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/windows_bluetooth/example/build" />
       <excludeFolder url="file://$MODULE_DIR$/windows_bluetooth/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/windows_bluetooth/example/windows/flutter/ephemeral/.plugin_symlinks/windows_bluetooth_windows/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/windows_bluetooth/example/windows/flutter/ephemeral/.plugin_symlinks/windows_bluetooth_windows/build" />
+      <excludeFolder url="file://$MODULE_DIR$/windows_bluetooth/example/windows/flutter/ephemeral/.plugin_symlinks/windows_bluetooth_windows/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/windows_bluetooth_example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/windows_bluetooth_example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/windows_bluetooth_example/.dart_tool" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
