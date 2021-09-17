@@ -86,6 +86,12 @@
       "languageVersion": "2.12"
     },
     {
+      "name": "plugin_platform_interface",
+      "rootUri": "file:///C:/flutter/.pub-cache/hosted/pub.dartlang.org/plugin_platform_interface-2.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "sky_engine",
       "rootUri": "file:///C:/flutter/bin/cache/pkg/sky_engine",
       "packageUri": "lib/",
@@ -140,13 +146,25 @@
       "languageVersion": "2.12"
     },
     {
+      "name": "windows_bluetooth_platform_interface",
+      "rootUri": "../../windows_bluetooth_platform_interface",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "windows_bluetooth_windows",
+      "rootUri": "../../windows_bluetooth_windows",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "windows_bluetooth",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     }
   ],
-  "generated": "2021-09-16T15:22:39.796533Z",
+  "generated": "2021-09-17T13:55:07.900175Z",
   "generator": "pub",
   "generatorVersion": "2.14.0"
 }

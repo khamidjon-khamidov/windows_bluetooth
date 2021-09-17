@@ -6,9 +6,9 @@
 
 #include "generated_plugin_registrant.h"
 
-#include <windows_bluetooth/windows_bluetooth_plugin.h>
+#include <windows_bluetooth_windows/windows_bluetooth_windows_plugin.h>
 
 void RegisterPlugins(flutter::PluginRegistry* registry) {
-  WindowsBluetoothPluginRegisterWithRegistrar(
-      registry->GetRegistrarForPlugin("WindowsBluetoothPlugin"));
+  WindowsBluetoothWindowsPluginRegisterWithRegistrar(
+      registry->GetRegistrarForPlugin("WindowsBluetoothWindowsPlugin"));
 }

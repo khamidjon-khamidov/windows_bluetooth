@@ -3,7 +3,7 @@
 #
 
 list(APPEND FLUTTER_PLUGIN_LIST
-  windows_bluetooth
+  windows_bluetooth_windows
 )
 
 set(PLUGIN_BUNDLED_LIBRARIES)

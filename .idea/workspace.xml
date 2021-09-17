@@ -4,19 +4,18 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c9d7d79f-dc2c-476e-bd28-e9a4ee254ae7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/windows_bluetooth_platform_interface/lib/method_channel_windows_bluetooth.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/windows_bluetooth_platform_interface/lib/models.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/windows_bluetooth_platform_interface/lib/windows_bluetooth_platform_interface.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/windows_bluetooth_windows/pubspec.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" afterDir="false" />
+    <list default="true" id="c9d7d79f-dc2c-476e-bd28-e9a4ee254ae7" name="Default Changelist" comment="initialize platform interface and windows packages">
       <change beforePath="$PROJECT_DIR$/.idea/windows_bluetooth.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/windows_bluetooth.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/windows_bluetooth/windows/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/windows_bluetooth_windows/windows/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/windows_bluetooth/windows/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/windows_bluetooth_windows/windows/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/windows_bluetooth/windows/include/windows_bluetooth/windows_bluetooth_plugin.h" beforeDir="false" afterPath="$PROJECT_DIR$/windows_bluetooth_windows/windows/include/windows_bluetooth/windows_bluetooth_plugin.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/windows_bluetooth/windows/windows_bluetooth_plugin.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/windows_bluetooth_windows/windows/windows_bluetooth_plugin.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/windows_bluetooth_platform_interface/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/windows_bluetooth_platform_interface/pubspec.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/windows_bluetooth/.dart_tool/package_config.json" beforeDir="false" afterPath="$PROJECT_DIR$/windows_bluetooth/.dart_tool/package_config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/windows_bluetooth/.dart_tool/package_config_subset" beforeDir="false" afterPath="$PROJECT_DIR$/windows_bluetooth/.dart_tool/package_config_subset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/windows_bluetooth/.packages" beforeDir="false" afterPath="$PROJECT_DIR$/windows_bluetooth/.packages" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/windows_bluetooth/example/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/windows_bluetooth/example/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/windows_bluetooth/example/windows/flutter/generated_plugin_registrant.cc" beforeDir="false" afterPath="$PROJECT_DIR$/windows_bluetooth/example/windows/flutter/generated_plugin_registrant.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/windows_bluetooth/example/windows/flutter/generated_plugins.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/windows_bluetooth/example/windows/flutter/generated_plugins.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/windows_bluetooth/lib/windows_bluetooth.dart" beforeDir="false" afterPath="$PROJECT_DIR$/windows_bluetooth/lib/windows_bluetooth.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/windows_bluetooth/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/windows_bluetooth/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/windows_bluetooth/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/windows_bluetooth/pubspec.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,10 +53,13 @@
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="io.flutter.reload.alreadyRun" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/windows_bluetooth_windows" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Hamidjon\StudioProjects\windows_bluetooth\windows_bluetooth_windows" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Hamidjon\StudioProjects\windows_bluetooth\windows_bluetooth_windows" />
     </key>
@@ -101,6 +103,14 @@
       <option name="presentableId" value="Default" />
       <updated>1631805765039</updated>
     </task>
+    <task id="LOCAL-00001" summary="initialize platform interface and windows packages">
+      <created>1631885802241</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1631885802241</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -114,5 +124,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initialize platform interface and windows packages" />
+    <option name="LAST_COMMIT_MESSAGE" value="initialize platform interface and windows packages" />
   </component>
 </project>
