@@ -394,7 +394,7 @@ void WindowsBluetoothPlugin::GattCharacteristic_ValueChanged(GattCharacteristic 
 
 }  // namespace
 
-void WindowsBluetoothPluginRegisterWithRegistrar(
+void WindowsBluetoothWindowsPluginRegisterWithRegistrar(
     FlutterDesktopPluginRegistrarRef registrar) {
   WindowsBluetoothPlugin::RegisterWithRegistrar(
       flutter::PluginRegistrarManager::GetInstance()
