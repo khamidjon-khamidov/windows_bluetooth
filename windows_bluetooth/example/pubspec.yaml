@@ -1,5 +1,5 @@
 name: windows_bluetooth_example
-description: Demonstrates how to use the windows_bluetooth plugin.
+description: Demonstrates how to use the windows_bluetooth_windows plugin.
 
 publish_to: 'none' # Remove this line if you wish to publish to pub.dev
 

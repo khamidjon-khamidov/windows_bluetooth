@@ -1,8 +1,8 @@
 name: windows_bluetooth
 description: BLE Libary which supports only Windows
 version: 1.0.0
-homepage: https://github.com/SomeoneAndNoone/windows_bluetooth
-repository: https://github.com/SomeoneAndNoone/windows_bluetooth/tree/main/windows_bluetooth
+homepage: https://github.com/SomeoneAndNoone/windows_bluetooth_windows
+repository: https://github.com/SomeoneAndNoone/windows_bluetooth_windows/tree/main/windows_bluetooth_windows
 
 publish_to: none
 

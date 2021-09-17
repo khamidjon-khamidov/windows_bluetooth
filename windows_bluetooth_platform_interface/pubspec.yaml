@@ -1,7 +1,8 @@
 name: windows_bluetooth_platform_interface
-description: A common platform interface for the windows_bluetooth plugin.
-repository: https://github.com/SomeoneAndNoone/windows_bluetooth/tree/main/windows_bluetooth_platform_interface
-issue_tracker: https://github.com/SomeoneAndNoone/windows_bluetooth/issues
+description: A common platform interface for the windows_bluetooth_windows plugin.
+homepage: https://github.com/SomeoneAndNoone/windows_bluetooth_windows
+repository: https://github.com/SomeoneAndNoone/windows_bluetooth_windows/tree/main/windows_bluetooth_platform_interface
+issue_tracker: https://github.com/SomeoneAndNoone/windows_bluetooth_windows/issues
 
 version: 1.0.0
 

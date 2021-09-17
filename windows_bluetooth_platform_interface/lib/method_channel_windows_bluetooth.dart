@@ -4,7 +4,7 @@ import 'dart:typed_data';
 import 'package:flutter/services.dart';
 import 'package:windows_bluetooth_platform_interface/windows_bluetooth_platform_interface.dart';
 
-const MethodChannel _channel = const MethodChannel('windows_bluetooth/method');
+const MethodChannel _channel = const MethodChannel('windows_bluetooth_windows/method');
 
 class MethodChannelWindowsBluetooth extends WindowsBluetoothPlatform {
   static const _event_scanResult =

@@ -5,7 +5,7 @@ import 'package:windows_bluetooth_platform_interface/windows_bluetooth_platform_
 
 import 'models.dart';
 
-export 'package:windows_bluetooth/models.dart';
+export 'package:windows_bluetooth_platform_interface/models.dart';
 
 export 'models.dart';
 

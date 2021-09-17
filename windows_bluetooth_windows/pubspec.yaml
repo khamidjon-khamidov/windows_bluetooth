@@ -1,8 +1,8 @@
 name: windows_bluetooth_windows
 description: A new flutter plugin project.
 version: 1.0.0
-homepage: https://github.com/SomeoneAndNoone/windows_bluetooth
-repository: https://github.com/SomeoneAndNoone/windows_bluetooth/tree/main/windows_bluetooth_windows
+homepage: https://github.com/SomeoneAndNoone/windows_bluetooth_windows
+repository: https://github.com/SomeoneAndNoone/windows_bluetooth_windows/tree/main/windows_bluetooth_windows
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
