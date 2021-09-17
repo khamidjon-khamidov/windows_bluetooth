@@ -7,6 +7,12 @@
       <excludeFolder url="file://$MODULE_DIR$/windows_bluetooth/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/windows_bluetooth/example/build" />
       <excludeFolder url="file://$MODULE_DIR$/windows_bluetooth/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/windows_bluetooth_platform_interface/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/windows_bluetooth_platform_interface/build" />
+      <excludeFolder url="file://$MODULE_DIR$/windows_bluetooth_platform_interface/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/windows_bluetooth_windows/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/windows_bluetooth_windows/build" />
+      <excludeFolder url="file://$MODULE_DIR$/windows_bluetooth_windows/.dart_tool" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
